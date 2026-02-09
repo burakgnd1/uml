@@ -1,2 +1,2 @@
 # uml
-uml diyagramlar ile rapor destekli bir öğrenci kayıt sistemi 
+A student registration system supported by reports and UML diagrams.
